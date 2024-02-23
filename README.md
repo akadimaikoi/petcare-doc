@@ -1,4 +1,4 @@
-# Aplicação web com um sistema de agendamento para cuidar dos gatos em um condomínio. 
+# Sistema de agendamento de alimentação de gatos.
 
 ## Arquitetura da Aplicação:
 
